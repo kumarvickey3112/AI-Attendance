@@ -1,0 +1,21 @@
+# Utilities
+numpy
+pandas
+
+# face-recognition
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools
+
+supabase         #provide 1-2 gb space
+bcrypt           #used for encoding
+
+segno            #used to generate code
+pillow           #image-preprocessing----upload
+
+streamlit        
+
+
+
+
