@@ -22,7 +22,7 @@ def home_screen():
 
     with col2:
         st.header("I'm Teacher")
-        st.image("https://i.ibb.co/CsmQQV6X/mascot-teacher.png", width=190)
+        st.image("https://i.ibb.co/CsmQQV6X/mascot-teacher.png", width=140)
         if st.button('Teacher Portal', type='primary', icon=':material/arrow_outward:', icon_position='right'):
             st.session_state['login_type']='teacher'
             st.rerun()
